@@ -1,0 +1,15 @@
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.csproj.AssemblyReference.cache
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.GeneratedMSBuildEditorConfig.editorconfig
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.AssemblyInfoInputs.cache
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.AssemblyInfo.cs
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.csproj.CoreCompileInputs.cache
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\bin\Debug\net6.0\z47.exe
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\bin\Debug\net6.0\z47.deps.json
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\bin\Debug\net6.0\z47.runtimeconfig.json
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\bin\Debug\net6.0\z47.dll
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\bin\Debug\net6.0\z47.pdb
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.dll
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\refint\z47.dll
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.pdb
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\z47.genruntimeconfig.cache
+C:\one drive\OneDrive\Документы\Разработчик\git-projects\C-1\C-HomeWork7\z47\obj\Debug\net6.0\ref\z47.dll
